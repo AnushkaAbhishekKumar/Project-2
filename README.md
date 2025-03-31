@@ -1,4 +1,4 @@
-#Project_2(TDS Solver)
+# Project_2(TDS Solver)
 ## Backround
 You are a clever student who has joined IIT Madras’ Online Degree in Data Science. You have just enrolled in the Tools in Data Science course.
 
@@ -26,4 +26,4 @@ curl -X POST "https://your-app.vercel.app/api/" \
   -H "Content-Type: multipart/form-data" \
   -F "question=Download and unzip file abcd.zip which has a single extract.csv file inside. What is the value in the "answer" column of the CSV file?" \
   -F "file=@abcd.zip"
-```bash
+
