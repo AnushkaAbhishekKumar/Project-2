@@ -15,9 +15,9 @@ Graded Assignment 5
 
 ##Create an API
 
-Your application exposes an API endpoint. Let’s assume that it is at https://your-app.vercel.app/api/.
+Your application exposes an API endpoint. Let’s assume that it is at https://your-app.vercel.app/api/. ( I have used ngrok )
 
-The endpoint must accept a POST request, e.g. POST https://your-app.vercel.app/api/ with the question as well as optional file attachments as multipart/form-data.
+The endpoint must accept a POST request, e.g. POST https://f24a-2405-201-1c-900e-dd34-f5d0-3729-a7cf.ngrok-free.app/api/ with the question as well as optional file attachments as multipart/form-data.
 
 For example, here’s how anyone can make a request:
 
