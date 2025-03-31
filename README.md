@@ -22,7 +22,7 @@ The endpoint must accept a POST request, e.g. POST https://f24a-2405-201-1c-900e
 For example, here’s how anyone can make a request:
 
 ```bash
-curl -X POST "https://your-app.vercel.app/api/" \
+curl -X POST "https://f24a-2405-201-1c-900e-dd34-f5d0-3729-a7cf.ngrok-free.app/api/" \
   -H "Content-Type: multipart/form-data" \
   -F "question=Download and unzip file abcd.zip which has a single extract.csv file inside. What is the value in the "answer" column of the CSV file?" \
   -F "file=@abcd.zip"
